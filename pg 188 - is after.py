@@ -7,6 +7,7 @@ class Time:
     """Represents the time of day,
     attributes: hour, minute, second
     """
+#example Time instance
 time = Time()
 time.hour = 11
 time.minute = 59
