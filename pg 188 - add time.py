@@ -1,3 +1,6 @@
+#in-text example, Chapter 16, pg 188
+#function that adds two instances of time
+
 class Time:
     """Represents the time of day,
     attributes: hour, minute, second
