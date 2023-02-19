@@ -1,4 +1,4 @@
-#response to in-text practice prompt Think Python 2
+#response to in-text practice prompt from Think Python 2, Chapter 16, pg 188
 
 #task: to create a function named is_after that takes two instances of class Time, t1 and t2,
 #and returns a boolean True if t1 follows t2 chronologically
